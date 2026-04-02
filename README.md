@@ -13,4 +13,4 @@ I am an undergraduate for AI development at UTSA
 [![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/AlecV2)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/alec-vidal)
 
-_"Your sample quote here!"_
+_“A person who thinks all the time has nothing to think about except thoughts. So, he loses touch with reality and lives in a world of illusions.”_
